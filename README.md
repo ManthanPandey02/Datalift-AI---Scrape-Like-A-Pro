@@ -2,8 +2,6 @@
 
 **Datalift AI** is an AI-powered, prompt-driven web scraping application that extracts meaningful data from any public website using **open-source large language models (LLMs)** running locally. Built with Python, it combines the power of **Selenium**, **BeautifulSoup**, **Streamlit**, and **LangChain + Ollama** to deliver flexible, context-aware, and cost-effective scraping—no APIs required.
 
-![System Architecture](assets/system_architecture.png)
-
 ---
 
 ## 📌 Features
@@ -15,13 +13,6 @@
 - 🛡️ **Bypass Captchas** – Optional integration with Bright Data Scraping Browser  
 - 📊 **Dynamic Output** – Summaries, tables, lists, and more based on prompt  
 - ⚙️ **Modular Architecture** – Easily extend, debug, and enhance  
-
----
-
-## 📺 Demo
-
-▶️ **Watch the YouTube Tutorial:**  
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20Tutorial-Click%20Here-red?logo=youtube)](https://your-youtube-link.com)
 
 ---
 
